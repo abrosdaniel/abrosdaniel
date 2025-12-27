@@ -3,9 +3,11 @@
 
 ## ⚡ Technologies
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; width: 100%;">
-<div style="padding: 5px; text-align: center; border: 1px dashed; border-radius: 10px;">
-<p align="center">🚀 Core</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="50%" align="center" valign="top">
+
+🚀 Core
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EFD81E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
@@ -13,9 +15,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-E94E32?logo=git&logoColor=white)
 
-</div>
-<div style="padding: 5px; text-align: center; border: 1px dashed; border-radius: 10px;">
-<p align="center">🛠️ Tools</p>
+</td>
+<td width="50%" align="center" valign="top">
+
+🛠️ Tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-171515?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-F56925?logo=gitlab&logoColor=white)
@@ -30,9 +33,12 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-09090B?logo=hoppscotch&logoColor=white)
 
-</div>
-<div style="padding: 5px; text-align: center; border: 1px dashed; border-radius: 10px;">
-<p align="center">💻 Frontend</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+💻 Frontend
 
 ![Nextjs](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-58C3DD?logo=react&logoColor=white)
@@ -46,9 +52,10 @@
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-1BB2A9?logo=chakraui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?logo=antdesign&logoColor=white)
 
-</div>
-<div style="padding: 5px; text-align: center; border: 1px dashed; border-radius: 10px;">
-<p align="center">⚙️ Backend</p>
+</td>
+<td width="50%" align="center" valign="top">
+
+⚙️ Backend
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-417E38?logo=node.js&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
@@ -65,8 +72,9 @@
 ![Strapi](https://img.shields.io/badge/-Strapi-4945FF?logo=strapi&logoColor=white)
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?logo=n8n&logoColor=white)
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 ## 📫 Connect with me
 
