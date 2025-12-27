@@ -1,31 +1,10 @@
-<style>
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
-    width: 100%;
-  }
-  
-  @media (max-width: 768px) {
-    .tech-grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  }
-  
-  .tech-column {
-    padding: 5px;
-    text-align: center;
-    border: 1px dashed;
-    border-radius: 10px
-  }
-</style>
-<h1 align="center">Hi <img src='/assets/images/hi.gif' alt='Hi' width="20"/>, I'm Daniel Abros</h1>
+<h1 align="center">Hi <img src='/assets/images/hi.gif' alt='Hi' width="30"/>, I'm Daniel Abros</h1>
 <h3 align="center">I'm a freelance web developer. I work on other people's projects and launch my own MVPs.</h3>
 
-<h3 align="center">⚡ Technologies</h3>
+## ⚡ Technologies
 
-<div class="tech-grid">
-<div class="tech-column">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; width: 100%;">
+<div style="padding: 5px; text-align: center; border: 1px dashed; border-radius: 10px;">
 <p align="center">🚀 Core</p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EFD81E?logo=javascript&logoColor=black)
@@ -35,7 +14,24 @@
 ![Git](https://img.shields.io/badge/-Git-E94E32?logo=git&logoColor=white)
 
 </div>
-<div class="tech-column">
+<div style="padding: 5px; text-align: center; border: 1px dashed; border-radius: 10px;">
+<p align="center">🛠️ Tools</p>
+
+![GitHub](https://img.shields.io/badge/-GitHub-171515?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-F56925?logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2563ED?logo=docker&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-black?logo=bun&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white)
+![yarn](https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-09090B?logo=hoppscotch&logoColor=white)
+
+</div>
+<div style="padding: 5px; text-align: center; border: 1px dashed; border-radius: 10px;">
 <p align="center">💻 Frontend</p>
 
 ![Nextjs](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
@@ -51,7 +47,7 @@
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?logo=antdesign&logoColor=white)
 
 </div>
-<div class="tech-column">
+<div style="padding: 5px; text-align: center; border: 1px dashed; border-radius: 10px;">
 <p align="center">⚙️ Backend</p>
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-417E38?logo=node.js&logoColor=white)
@@ -70,21 +66,25 @@
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?logo=n8n&logoColor=white)
 
 </div>
-<div class="tech-column">
-<p align="center">🛠️ Tools</p>
+</div>
 
-![GitHub](https://img.shields.io/badge/-GitHub-171515?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-F56925?logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2563ED?logo=docker&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-black?logo=bun&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white)
-![yarn](https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-09090B?logo=hoppscotch&logoColor=white)
+## 📫 Connect with me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:abrosdev@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/abrosdev)
+[![X](https://img.shields.io/badge/-X-black?logo=x&logoColor=white)](https://x.com/abrosdaniel)
 
 </div>
-</div>
+
+## ⚡ Quick Facts
+
+- 🐻 All my friends **associate me with a bear** and I love it too, that's why I have this avatar.
+- 🚀 While doing freelance projects, I'm slowly but surely launching my own MVP - **P2P marketplace**.
+- 📚 Constantly **learning and working**, so no time for social media and portfolio maintenance.
+- 👯 Looking to collaborate on **open source projects**.
+- 💰 **I love crypto**, but don't want to work with it.
+- 🏠 Currently in the **top-100** homebodies worldwide.
+- 💸 When I don't want to work - I quote an **over-price for the project**.
+- 😌 **Comfort** is everything.
