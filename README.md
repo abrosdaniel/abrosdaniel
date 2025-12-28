@@ -59,6 +59,7 @@
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white)
 ![Embla Carousel](https://img.shields.io/badge/Embla-8B5CF6?logo=embla&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-00DDB3?logo=lottiefiles&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?logo=radixui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?logo=shadcnui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-1BB2A9?logo=chakraui&logoColor=white)
